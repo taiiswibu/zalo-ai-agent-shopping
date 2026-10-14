@@ -103,7 +103,7 @@ Các lệnh ghi đơn `/buy`, `/confirm`, `/cancel` **không nằm trong danh s�
 
 ## 🎬 Video Demo
 
-**[▶ XEM VIDEO DEMO — ZALO AI SHOPPING AGENT (MP4)](assets/videos/zalo-ai-shopping-agent-demo.mp4)**
+![Zalo AI Shopping Agent Demo](assets/demo/demo.gif)
 
 ## 🚀 Cài đặt và chạy local
 
