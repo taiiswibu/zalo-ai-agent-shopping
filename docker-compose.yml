@@ -1,0 +1,14 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    environment:
+      DATABASE_URL: sqlite:////srv/var/app.db
+      SEED_DEMO: "true"
+    ports:
+      - "127.0.0.1:8001:8000"
+    volumes:
+      - bot_data:/srv/var
+    restart: unless-stopped
+volumes:
+  bot_data:

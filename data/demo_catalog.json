@@ -1,0 +1,15 @@
+{
+  "products": [
+    {"sku":"TAI-001","name":"Tai nghe Bluetooth Lite","category":"am-thanh","description":"Tai nghe không dây, pin tối đa 25 giờ, kết nối Bluetooth, có micro.","price_vnd":390000,"stock":12,"warranty_months":12},
+    {"sku":"TAI-002","name":"Tai nghe Chống Ồn Pro","category":"am-thanh","description":"Tai nghe over-ear chống ồn chủ động ANC, pin tối đa 35 giờ.","price_vnd":890000,"stock":6,"warranty_months":12},
+    {"sku":"SAC-001","name":"Sạc nhanh USB-C 30W","category":"sac","description":"Củ sạc USB-C PD 30W dành cho thiết bị hỗ trợ, chưa kèm cáp.","price_vnd":199000,"stock":30,"warranty_months":6},
+    {"sku":"CAP-001","name":"Cáp Type-C 1m","category":"cap","description":"Cáp USB-C dài 1 mét, hỗ trợ sạc và truyền dữ liệu.","price_vnd":79000,"stock":45,"warranty_months":3},
+    {"sku":"CHU-001","name":"Chuột Bluetooth Silent","category":"chuot","description":"Chuột không dây Bluetooth, click êm, phù hợp laptop.","price_vnd":249000,"stock":0,"warranty_months":12},
+    {"sku":"PIN-001","name":"Pin dự phòng 10000mAh","category":"pin","description":"Dung lượng danh định 10000mAh, hỗ trợ sạc USB-C.","price_vnd":349000,"stock":8,"warranty_months":12}
+  ],
+  "policies": [
+    {"key":"shipping","title":"Chính sách giao hàng (demo)","content":"Dữ liệu thử nghiệm: Phí vận chuyển và thời gian giao hàng cần được nhân viên xác nhận theo địa chỉ nhận hàng. Chưa có kết nối hãng vận chuyển."},
+    {"key":"warranty","title":"Bảo hành sản phẩm (demo)","content":"Dữ liệu thử nghiệm: Thời gian bảo hành cụ thể theo từng sản phẩm, không áp dụng cho lỗi do sử dụng sai cách. Vui lòng giữ chứng từ mua hàng. Chính sách chính thức phải do chủ cửa hàng phê duyệt."},
+    {"key":"returns","title":"Đổi trả (demo)","content":"Dữ liệu thử nghiệm: Yêu cầu đổi trả cần được nhân viên xem xét theo tình trạng sản phẩm và chính sách cửa hàng. Bot không tự phê duyệt hoàn tiền."}
+  ]
+}

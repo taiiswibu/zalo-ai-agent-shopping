@@ -1,0 +1,4 @@
+model_key,name,brand,model_token,ram_gb,storage_gb,condition,retailer,url,crawl_enabled
+SAMSUNG-A56-8-128-NEW,Samsung Galaxy A56 5G 8GB/128GB,Samsung,A56,8,128,new,tgdd,https://www.thegioididong.com/dtdd/samsung-galaxy-a56-8gb-128gb,false
+SAMSUNG-A56-8-128-NEW,Samsung Galaxy A56 5G 8GB/128GB,Samsung,A56,8,128,new,cellphones,https://cellphones.com.vn/dien-thoai-samsung-galaxy-a56.html,false
+SAMSUNG-A56-8-128-NEW,Samsung Galaxy A56 5G 8GB/128GB,Samsung,A56,8,128,new,hoangha,https://hoanghamobile.com/dien-thoai/samsung-galaxy-a56-5g-8gb-128gb,false

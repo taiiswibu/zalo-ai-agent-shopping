@@ -1,0 +1,4 @@
+# Install into CURRENT v4 .venv; do not recreate the environment.
+# Gemini is called through existing HTTPX, no Ollama/GPU required.
+langgraph>=0.6,<2
+langchain-core>=0.3,<2

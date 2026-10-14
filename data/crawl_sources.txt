@@ -1,0 +1,34 @@
+# DANH SACH URL SAN PHAM - ZALO AI AGENT v4
+# Lay tu examples/real_headphone_watchlist_v4.csv (18 URL / 4 nha ban).
+# Day la URL ung vien co san trong source v4, KHONG cam ket con ton tai hay duoc phep crawl.
+# CHI CHAY khi ban co quyen thu thap, dieu khoan website va robots.txt cho phep.
+# Crawler tu choi domain chua co trong CRAWL_ALLOWED_HOSTS, 403, redirect, robots disallow.
+# QUAN TRONG: scripts.run_crawls chi nap NOI DUNG de duyet RAG; khong cap nhat GIA so sanh.
+# GIA: dung examples/real_headphone_watchlist_v4.csv -> bulk-watchlist -> compare-crawl.
+
+# THE GIOI DI DONG
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-true-wireless-soundcore-r50i-a3959
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-chup-tai-sony-wh-ch520
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-true-wireless-sony-wf-c510
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-chup-tai-jbl-tune-520bt
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-true-wireless-sony-wf-c710n
+https://www.thegioididong.com/tai-nghe/tai-nghe-tws-jbl-wave-beam-2
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-true-wireless-xiaomi-redmi-buds-6-play
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-true-wireless-baseus-bowie-e20
+https://www.thegioididong.com/tai-nghe/tai-nghe-bluetooth-chup-tai-sony-wh-ch720n
+
+# CELLPHONES
+https://cellphones.com.vn/tai-nghe-khong-day-anker-soundcore-r50i-nc.html
+https://cellphones.com.vn/tai-nghe-chup-tai-sony-wh-ch520.html
+https://cellphones.com.vn/tai-nghe-khong-day-anker-soundcore-r50i-a3949.html
+https://cellphones.com.vn/tai-nghe-khong-day-anker-soundcore-a20i-a3948.html
+https://cellphones.com.vn/tai-nghe-chup-tai-jbl-tune-520bt.html
+https://cellphones.com.vn/tai-nghe-bluetooth-sony-wf-c510.html
+
+# FPT SHOP
+https://fptshop.com.vn/phu-kien/tai-nghe-sony-wh-ch520bz-e
+https://fptshop.com.vn/phu-kien/tai-nghe-bluetooth-choang-dau-jbl-tune-520bt
+
+# HOANG HA MOBILE
+https://hoanghamobile.com/tai-nghe/tai-nghe-khong-day-sony-wh-ch520-chinh-hang
+

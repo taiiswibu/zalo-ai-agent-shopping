@@ -1,0 +1,53 @@
+# API keys / credentials
+.env
+.env.*
+!.env.example
+.secrets/
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.test_tmp/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local databases, snapshots and logs
+data/*.db
+data/*.db-*
+data/*.sqlite
+data/*.sqlite3
+data/crawl-results/
+data/exports/
+data/raw/
+backups/
+*.log
+logs/
+
+# Temporary patch/install assets from v1-v5
+automation_backups/
+payload/
+apply_*.ps1
+fix_v5_toolstate.py
+tool_agent_FIXED.py
+README_FIRST.txt
+README_FIX.md
+README.txt
+COPY_*.txt
+CHANGELOG_V3.md
+
+# IDE, OS and packaging
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+build/
+dist/
+*.egg-info/
